@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "day": "Another Day",
+      "activities": "qwerqwer",
+      "id": 1
+    },
+    {
+      "day": "Selasa",
+      "activities": "make it update!!",
+      "id": 2
+    }
+  ]
+}
